@@ -1,50 +1,135 @@
-# Welcome to your Expo app 👋
+# AI-Powered Food Label Analyzer
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Overview
 
-## Get started
+AI-Powered Food Label Analyzer is a mobile application that helps users make healthier food choices by analyzing packaged food products through ingredient label scanning and barcode detection.
 
-1. Install dependencies
+The application extracts ingredient information from food labels using OCR technology, identifies allergens and additives, evaluates nutritional quality, and generates personalized food insights based on user preferences.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## Features
 
-   ```bash
-   npx expo start
-   ```
+### Ingredient Label Analysis
 
-In the output, you'll find options to open the app in a
+* Capture or upload food label images
+* Extract ingredients using OCR
+* Detect allergens and additives
+* Identify preservatives and artificial ingredients
+* Generate ingredient-based health insights
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Barcode Scanning
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+* Scan product barcodes using the device camera
+* Retrieve product information from Open Food Facts
+* Display nutritional information
+* Show ingredients and allergen details
+* Provide product health ratings
 
-## Get a fresh project
+### Health Scoring Engine
 
-When you're ready, run:
+* Custom food grading system (A–E)
+* Nutrition-based scoring
+* Additive penalty calculations
+* Ingredient quality assessment
+* Personalized recommendations
+
+### Personalized Food Warnings
+
+* Allergen alerts
+* Ingredient risk notifications
+* Dietary preference checks
+* Nutrition warnings for high sugar, sodium, and processed foods
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* React Native
+* Expo
+* Expo Router
+* Expo Camera
+* TypeScript
+
+### Backend
+
+* FastAPI
+* Python
+
+### APIs & Data Sources
+
+* Open Food Facts API
+* OCR Processing
+* Food Additives Dataset
+* Nutrition Analysis Engine
+
+---
+
+## System Architecture
+
+User → Mobile App → OCR / Barcode Scanner → FastAPI Backend → Food Analysis Engine → Results Dashboard
+
+---
+
+## Key Functionalities
+
+### OCR Workflow
+
+1. User captures or uploads a food label image
+2. OCR extracts ingredient information
+3. Backend processes ingredients
+4. Allergens and additives are identified
+5. Health score is calculated
+6. Results are displayed to the user
+
+### Barcode Workflow
+
+1. User scans a barcode
+2. Product information is fetched from Open Food Facts
+3. Nutrition and ingredient data are analyzed
+4. Health insights and warnings are generated
+5. Results are displayed to the user
+
+---
+
+## Project Highlights
+
+* Built an end-to-end mobile application for food product analysis
+* Implemented OCR-based ingredient extraction workflow
+* Integrated external food databases through APIs
+* Developed a custom health scoring model
+* Created personalized dietary warning mechanisms
+* Designed a scalable frontend and backend architecture
+
+---
+
+## Future Enhancements
+
+* AI-powered ingredient risk prediction
+* Personalized nutrition recommendations
+* Product comparison engine
+* Meal planning integration
+* Health profile customization
+* Machine learning-based food scoring
+
+---
+
+## Installation
+
+### Frontend
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Backend
 
-## Learn more
+```bash
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
