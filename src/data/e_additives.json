@@ -1,0 +1,2208 @@
+{
+  "E100": {
+    "eno": "E100",
+    "chemical_name": "Curcumin",
+    "name": "Curcumin",
+    "category": "Color",
+    "description": "Natural yellow color from turmeric. Does not increase sugar or salt levels but usually appears in processed snacks.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe in normal food amounts."
+  },
+  "E101": {
+    "eno": "E101",
+    "chemical_name": "Riboflavin",
+    "name": "Riboflavin (Vitamin B2)",
+    "category": "Color",
+    "description": "Vitamin B2 used as yellow coloring and nutrient fortification.",
+    "risk_level": "low",
+    "safety_notes": "Safe and essential vitamin."
+  },
+  "E102": {
+    "eno": "E102",
+    "chemical_name": "Tartrazine",
+    "name": "Tartrazine",
+    "category": "Color",
+    "description": "Synthetic yellow dye often found in candies and soft drinks which are usually high in sugar.",
+    "risk_level": "high",
+    "safety_notes": "May trigger hyperactivity or allergic reactions in sensitive individuals."
+  },
+  "E104": {
+    "eno": "E104",
+    "chemical_name": "Quinoline Yellow",
+    "name": "Quinoline Yellow",
+    "category": "Color",
+    "description": "Artificial yellow dye used in beverages and desserts.",
+    "risk_level": "moderate",
+    "safety_notes": "Some people may be sensitive."
+  },
+  "E110": {
+    "eno": "E110",
+    "chemical_name": "Sunset Yellow FCF",
+    "name": "Sunset Yellow",
+    "category": "Color",
+    "description": "Synthetic orange-yellow color found in sweets and sodas.",
+    "risk_level": "high",
+    "safety_notes": "Linked to hyperactivity in children in some studies."
+  },
+  "E120": {
+    "eno": "E120",
+    "chemical_name": "Carminic Acid",
+    "name": "Cochineal",
+    "category": "Color",
+    "description": "Red color derived from insects used in yogurt and candy.",
+    "risk_level": "moderate",
+    "safety_notes": "Can trigger allergies; not vegan."
+  },
+  "E122": {
+    "eno": "E122",
+    "chemical_name": "Carmoisine",
+    "name": "Carmoisine",
+    "category": "Color",
+    "description": "Synthetic red dye used in desserts and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity in some individuals."
+  },
+  "E124": {
+    "eno": "E124",
+    "chemical_name": "Ponceau 4R",
+    "name": "Ponceau 4R",
+    "category": "Color",
+    "description": "Artificial red coloring common in sweets.",
+    "risk_level": "high",
+    "safety_notes": "May cause allergic reactions."
+  },
+  "E129": {
+    "eno": "E129",
+    "chemical_name": "Allura Red AC",
+    "name": "Allura Red",
+    "category": "Color",
+    "description": "Red dye used in sodas and snacks, often high-sugar products.",
+    "risk_level": "high",
+    "safety_notes": "Some sensitivity reported."
+  },
+  "E140": {
+    "eno": "E140",
+    "chemical_name": "Chlorophyll",
+    "name": "Chlorophyll",
+    "category": "Color",
+    "description": "Natural green pigment from plants.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E150A": {
+    "eno": "E150A",
+    "chemical_name": "Plain Caramel",
+    "name": "Caramel Color A",
+    "category": "Color",
+    "description": "Brown coloring made by heating sugar.",
+    "risk_level": "moderate",
+    "safety_notes": "Common in sauces and colas."
+  },
+  "E150D": {
+    "eno": "E150D",
+    "chemical_name": "Sulfite Ammonia Caramel",
+    "name": "Caramel Color D",
+    "category": "Color",
+    "description": "Dark caramel color used in colas, usually paired with high sugar.",
+    "risk_level": "moderate",
+    "safety_notes": "Sulphite-sensitive individuals should avoid."
+  },
+  "E160A": {
+    "eno": "E160A",
+    "chemical_name": "Beta-Carotene",
+    "name": "Carotenes",
+    "category": "Color",
+    "description": "Natural orange color from carrots.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E162": {
+    "eno": "E162",
+    "chemical_name": "Betanin",
+    "name": "Beetroot Red",
+    "category": "Color",
+    "description": "Natural red color extracted from beetroot.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E200": {
+    "eno": "E200",
+    "chemical_name": "Sorbic Acid",
+    "name": "Sorbic Acid",
+    "category": "Preservative",
+    "description": "Prevents mold growth in packaged foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated quantities."
+  },
+  "E202": {
+    "eno": "E202",
+    "chemical_name": "Potassium Sorbate",
+    "name": "Potassium Sorbate",
+    "category": "Preservative",
+    "description": "Stops yeast and mold growth in cheese and drinks.",
+    "risk_level": "moderate",
+    "safety_notes": "May irritate sensitive individuals."
+  },
+  "E210": {
+    "eno": "E210",
+    "chemical_name": "Benzoic Acid",
+    "name": "Benzoic Acid",
+    "category": "Preservative",
+    "description": "Preservative in acidic foods like juices and sauces.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity."
+  },
+  "E211": {
+    "eno": "E211",
+    "chemical_name": "Sodium Benzoate",
+    "name": "Sodium Benzoate",
+    "category": "Preservative",
+    "description": "Common in soft drinks and syrups; often paired with high sugar.",
+    "risk_level": "moderate",
+    "safety_notes": "Sensitive people may experience reactions."
+  },
+  "E220": {
+    "eno": "E220",
+    "chemical_name": "Sulfur Dioxide",
+    "name": "Sulphur Dioxide",
+    "category": "Preservative",
+    "description": "Prevents browning in dried fruits and wine.",
+    "risk_level": "high",
+    "safety_notes": "Can trigger asthma symptoms."
+  },
+  "E250": {
+    "eno": "E250",
+    "chemical_name": "Sodium Nitrite",
+    "name": "Sodium Nitrite",
+    "category": "Preservative",
+    "description": "Used in processed meats to prevent bacteria.",
+    "risk_level": "high",
+    "safety_notes": "Frequent intake of processed meats is discouraged."
+  },
+  "E300": {
+    "eno": "E300",
+    "chemical_name": "Ascorbic Acid",
+    "name": "Vitamin C",
+    "category": "Antioxidant",
+    "description": "Prevents food oxidation; also essential vitamin.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E322": {
+    "eno": "E322",
+    "chemical_name": "Lecithin",
+    "name": "Lecithins",
+    "category": "Emulsifier",
+    "description": "Helps oil and water mix; common in chocolate and bakery.",
+    "risk_level": "moderate",
+    "safety_notes": "Soy-derived versions may affect soy-allergic individuals."
+  },
+  "E330": {
+    "eno": "E330",
+    "chemical_name": "Citric Acid",
+    "name": "Citric Acid",
+    "category": "Acidity Regulator",
+    "description": "Adds sour taste and controls acidity.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E338": {
+    "eno": "E338",
+    "chemical_name": "Phosphoric Acid",
+    "name": "Phosphoric Acid",
+    "category": "Acidity Regulator",
+    "description": "Found in cola drinks; high intake linked with sugary beverage risks.",
+    "risk_level": "moderate",
+    "safety_notes": "Limit frequent soda intake."
+  },
+  "E407": {
+    "eno": "E407",
+    "chemical_name": "Carrageenan",
+    "name": "Carrageenan",
+    "category": "Thickener",
+    "description": "Used to thicken dairy alternatives and desserts.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause digestive discomfort in sensitive people."
+  },
+  "E412": {
+    "eno": "E412",
+    "chemical_name": "Guar Gum",
+    "name": "Guar Gum",
+    "category": "Thickener",
+    "description": "Plant-based thickener used in sauces and dairy alternatives.",
+    "risk_level": "low",
+    "safety_notes": "Large amounts may cause bloating."
+  },
+  "E415": {
+    "eno": "E415",
+    "chemical_name": "Xanthan Gum",
+    "name": "Xanthan Gum",
+    "category": "Thickener",
+    "description": "Stabilizes texture in sauces and dressings.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause mild digestive discomfort."
+  },
+  "E420": {
+    "eno": "E420",
+    "chemical_name": "Sorbitol",
+    "name": "Sorbitol",
+    "category": "Sweetener",
+    "description": "Sugar alcohol used in sugar-free gum and candy.",
+    "risk_level": "moderate",
+    "safety_notes": "High amounts may cause laxative effect."
+  },
+  "E331": {
+    "eno": "E331",
+    "chemical_name": "Sodium Citrates",
+    "name": "Sodium Citrates",
+    "category": "Acidity Regulator",
+    "description": "Controls acidity and improves flavor balance in drinks and processed cheese.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E332": {
+    "eno": "E332",
+    "chemical_name": "Potassium Citrates",
+    "name": "Potassium Citrates",
+    "category": "Acidity Regulator",
+    "description": "Used to control acidity in beverages and processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe in approved limits."
+  },
+  "E333": {
+    "eno": "E333",
+    "chemical_name": "Calcium Citrates",
+    "name": "Calcium Citrates",
+    "category": "Acidity Regulator",
+    "description": "Balances acidity and may add small amounts of calcium.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E334": {
+    "eno": "E334",
+    "chemical_name": "Tartaric Acid",
+    "name": "Tartaric Acid",
+    "category": "Acidity Regulator",
+    "description": "Provides sour taste in candies and beverages.",
+    "risk_level": "low",
+    "safety_notes": "Safe for most people."
+  },
+  "E335": {
+    "eno": "E335",
+    "chemical_name": "Sodium Tartrates",
+    "name": "Sodium Tartrates",
+    "category": "Acidity Regulator",
+    "description": "Used in baking powders and beverages.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E336": {
+    "eno": "E336",
+    "chemical_name": "Potassium Tartrates",
+    "name": "Potassium Tartrates",
+    "category": "Acidity Regulator",
+    "description": "Used in baking and food stabilization.",
+    "risk_level": "low",
+    "safety_notes": "Safe in normal amounts."
+  },
+  "E339": {
+    "eno": "E339",
+    "chemical_name": "Sodium Phosphates",
+    "name": "Sodium Phosphates",
+    "category": "Stabilizer",
+    "description": "Helps processed foods retain moisture and texture.",
+    "risk_level": "moderate",
+    "safety_notes": "People with kidney issues should monitor phosphate intake."
+  },
+  "E340": {
+    "eno": "E340",
+    "chemical_name": "Potassium Phosphates",
+    "name": "Potassium Phosphates",
+    "category": "Stabilizer",
+    "description": "Maintains texture and acidity in processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "High intake may affect kidney health."
+  },
+  "E341": {
+    "eno": "E341",
+    "chemical_name": "Calcium Phosphates",
+    "name": "Calcium Phosphates",
+    "category": "Stabilizer",
+    "description": "Used in baking powders and dairy products.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E350": {
+    "eno": "E350",
+    "chemical_name": "Sodium Malate",
+    "name": "Sodium Malate",
+    "category": "Acidity Regulator",
+    "description": "Enhances sour taste and balances acidity.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E351": {
+    "eno": "E351",
+    "chemical_name": "Potassium Malate",
+    "name": "Potassium Malate",
+    "category": "Acidity Regulator",
+    "description": "Used to regulate acidity in beverages.",
+    "risk_level": "low",
+    "safety_notes": "Safe in regulated amounts."
+  },
+  "E352": {
+    "eno": "E352",
+    "chemical_name": "Calcium Malate",
+    "name": "Calcium Malate",
+    "category": "Acidity Regulator",
+    "description": "Balances acidity and may provide small calcium amounts.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E355": {
+    "eno": "E355",
+    "chemical_name": "Adipic Acid",
+    "name": "Adipic Acid",
+    "category": "Acidity Regulator",
+    "description": "Used in flavored drinks and gelatin desserts.",
+    "risk_level": "low",
+    "safety_notes": "Safe in approved amounts."
+  },
+  "E363": {
+    "eno": "E363",
+    "chemical_name": "Succinic Acid",
+    "name": "Succinic Acid",
+    "category": "Acidity Regulator",
+    "description": "Adds mild acidic taste in beverages.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E380": {
+    "eno": "E380",
+    "chemical_name": "Triammonium Citrate",
+    "name": "Triammonium Citrate",
+    "category": "Acidity Regulator",
+    "description": "Used in dairy and beverage products to balance pH.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E385": {
+    "eno": "E385",
+    "chemical_name": "Calcium Disodium EDTA",
+    "name": "EDTA",
+    "category": "Preservative",
+    "description": "Prevents discoloration and extends shelf life in processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in small amounts."
+  },
+  "E392": {
+    "eno": "E392",
+    "chemical_name": "Rosemary Extract",
+    "name": "Rosemary Extract",
+    "category": "Antioxidant",
+    "description": "Natural antioxidant that prevents oils from spoiling.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E400": {
+    "eno": "E400",
+    "chemical_name": "Alginic Acid",
+    "name": "Alginic Acid",
+    "category": "Thickener",
+    "description": "Seaweed-based thickener used in ice creams and sauces.",
+    "risk_level": "low",
+    "safety_notes": "Safe for most people."
+  },
+  "E401": {
+    "eno": "E401",
+    "chemical_name": "Sodium Alginate",
+    "name": "Sodium Alginate",
+    "category": "Thickener",
+    "description": "Helps improve texture and stability in foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E402": {
+    "eno": "E402",
+    "chemical_name": "Potassium Alginate",
+    "name": "Potassium Alginate",
+    "category": "Thickener",
+    "description": "Used in desserts and dairy products.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E403": {
+    "eno": "E403",
+    "chemical_name": "Ammonium Alginate",
+    "name": "Ammonium Alginate",
+    "category": "Thickener",
+    "description": "Used for texture stabilization in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E404": {
+    "eno": "E404",
+    "chemical_name": "Calcium Alginate",
+    "name": "Calcium Alginate",
+    "category": "Thickener",
+    "description": "Improves texture and firmness in foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E405": {
+    "eno": "E405",
+    "chemical_name": "Propane-1,2-diol alginate",
+    "name": "Propylene Glycol Alginate",
+    "category": "Thickener / Stabilizer",
+    "description": "Helps improve texture and prevents ingredients from separating in sauces and dressings.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe in regulated amounts."
+  },
+  "E406": {
+    "eno": "E406",
+    "chemical_name": "Agar",
+    "name": "Agar",
+    "category": "Gelling Agent",
+    "description": "Plant-based gelatin alternative used in desserts and jellies.",
+    "risk_level": "low",
+    "safety_notes": "Safe and widely used."
+  },
+  "E410": {
+    "eno": "E410",
+    "chemical_name": "Locust Bean Gum",
+    "name": "Locust Bean Gum",
+    "category": "Thickener",
+    "description": "Plant-based thickener that improves texture in ice cream and sauces.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+
+  "E414": {
+    "eno": "E414",
+    "chemical_name": "Acacia Gum",
+    "name": "Gum Arabic",
+    "category": "Stabilizer",
+    "description": "Natural gum used to stabilize beverages and candies.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E416": {
+    "eno": "E416",
+    "chemical_name": "Karaya Gum",
+    "name": "Karaya Gum",
+    "category": "Thickener",
+    "description": "Natural plant gum used as a stabilizer in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E418": {
+    "eno": "E418",
+    "chemical_name": "Gellan Gum",
+    "name": "Gellan Gum",
+    "category": "Gelling Agent",
+    "description": "Creates gel-like texture in beverages and desserts.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E421": {
+    "eno": "E421",
+    "chemical_name": "Mannitol",
+    "name": "Mannitol",
+    "category": "Sweetener",
+    "description": "Low-calorie sweetener used in chewing gum and candies.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause bloating in large amounts."
+  },
+  "E422": {
+    "eno": "E422",
+    "chemical_name": "Glycerol",
+    "name": "Glycerol",
+    "category": "Humectant",
+    "description": "Keeps foods moist and prevents drying.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E440": {
+    "eno": "E440",
+    "chemical_name": "Pectins",
+    "name": "Pectin",
+    "category": "Gelling Agent",
+    "description": "Fruit-derived thickener used in jams and jellies.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E450": {
+    "eno": "E450",
+    "chemical_name": "Diphosphates",
+    "name": "Diphosphates",
+    "category": "Raising Agent",
+    "description": "Used in baking powders and processed meats to improve texture.",
+    "risk_level": "moderate",
+    "safety_notes": "High intake may affect kidney health."
+  },
+  "E451": {
+    "eno": "E451",
+    "chemical_name": "Triphosphates",
+    "name": "Triphosphates",
+    "category": "Stabilizer",
+    "description": "Improves moisture retention in processed meats.",
+    "risk_level": "moderate",
+    "safety_notes": "Excess consumption not recommended."
+  },
+  "E452": {
+    "eno": "E452",
+    "chemical_name": "Polyphosphates",
+    "name": "Polyphosphates",
+    "category": "Stabilizer",
+    "description": "Used in processed foods to improve texture and moisture.",
+    "risk_level": "moderate",
+    "safety_notes": "Kidney patients should monitor intake."
+  },
+  "E460": {
+    "eno": "E460",
+    "chemical_name": "Cellulose",
+    "name": "Cellulose",
+    "category": "Bulking Agent",
+    "description": "Plant fiber added to improve texture and stability.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E461": {
+    "eno": "E461",
+    "chemical_name": "Methylcellulose",
+    "name": "Methylcellulose",
+    "category": "Thickener",
+    "description": "Used in processed foods and vegetarian products.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E470": {
+    "eno": "E470",
+    "chemical_name": "Salts of Fatty Acids",
+    "name": "Fatty Acid Salts",
+    "category": "Emulsifier",
+    "description": "Helps oil and water mix smoothly in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E471": {
+    "eno": "E471",
+    "chemical_name": "Mono- and Diglycerides of Fatty Acids",
+    "name": "Mono & Diglycerides",
+    "category": "Emulsifier",
+    "description": "Common emulsifier in bread, ice cream, and margarine.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E472": {
+    "eno": "E472",
+    "chemical_name": "Esters of Mono- and Diglycerides",
+    "name": "Emulsifier Esters",
+    "category": "Emulsifier",
+    "description": "Improves texture and shelf life in baked goods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E473": {
+    "eno": "E473",
+    "chemical_name": "Sucrose Esters",
+    "name": "Sucrose Esters",
+    "category": "Emulsifier",
+    "description": "Helps mix ingredients in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E475": {
+    "eno": "E475",
+    "chemical_name": "Polyglycerol Esters",
+    "name": "Polyglycerol Esters",
+    "category": "Emulsifier",
+    "description": "Improves texture in baked goods and margarine.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E476": {
+    "eno": "E476",
+    "chemical_name": "Polyglycerol Polyricinoleate",
+    "name": "PGPR",
+    "category": "Emulsifier",
+    "description": "Used in chocolate to improve smooth texture.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in small amounts."
+  },
+  "E500": {
+    "eno": "E500",
+    "chemical_name": "Sodium Carbonates",
+    "name": "Sodium Carbonate",
+    "category": "Raising Agent",
+    "description": "Used in baking powders and soda bread.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E501": {
+    "eno": "E501",
+    "chemical_name": "Potassium Carbonate",
+    "name": "Potassium Carbonate",
+    "category": "Raising Agent",
+    "description": "Used in baking to help dough rise and improve texture.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe in normal food amounts."
+  },
+  "E503": {
+    "eno": "E503",
+    "chemical_name": "Ammonium Carbonate",
+    "name": "Ammonium Carbonate",
+    "category": "Raising Agent",
+    "description": "Used in baked goods like cookies to create a light texture.",
+    "risk_level": "low",
+    "safety_notes": "Safe in regulated amounts."
+  },
+  "E504": {
+    "eno": "E504",
+    "chemical_name": "Magnesium Carbonate",
+    "name": "Magnesium Carbonate",
+    "category": "Anti-caking Agent",
+    "description": "Prevents powdered foods like salt from clumping together.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E509": {
+    "eno": "E509",
+    "chemical_name": "Calcium Chloride",
+    "name": "Calcium Chloride",
+    "category": "Firming Agent",
+    "description": "Helps maintain firmness in canned vegetables and cheese.",
+    "risk_level": "low",
+    "safety_notes": "Safe in small quantities."
+  },
+  "E511": {
+    "eno": "E511",
+    "chemical_name": "Magnesium Chloride",
+    "name": "Magnesium Chloride",
+    "category": "Firming Agent",
+    "description": "Used in tofu and some processed foods to improve texture.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E514": {
+    "eno": "E514",
+    "chemical_name": "Sodium Sulphates",
+    "name": "Sodium Sulphates",
+    "category": "Acidity Regulator",
+    "description": "Used to regulate acidity in processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Excess intake not recommended."
+  },
+  "E516": {
+    "eno": "E516",
+    "chemical_name": "Calcium Sulphate",
+    "name": "Calcium Sulphate",
+    "category": "Firming Agent",
+    "description": "Improves firmness in canned vegetables and tofu.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E524": {
+    "eno": "E524",
+    "chemical_name": "Sodium Hydroxide",
+    "name": "Sodium Hydroxide",
+    "category": "Acidity Regulator",
+    "description": "Used in food processing to regulate acidity (e.g., olives).",
+    "risk_level": "moderate",
+    "safety_notes": "Safe after processing; not consumed directly."
+  },
+  "E551": {
+    "eno": "E551",
+    "chemical_name": "Silicon Dioxide",
+    "name": "Silicon Dioxide",
+    "category": "Anti-caking Agent",
+    "description": "Prevents powders like salt and spices from clumping.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E552": {
+    "eno": "E552",
+    "chemical_name": "Calcium Silicate",
+    "name": "Calcium Silicate",
+    "category": "Anti-caking Agent",
+    "description": "Keeps powdered foods free-flowing.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E553B": {
+    "eno": "E553B",
+    "chemical_name": "Talc",
+    "name": "Talc",
+    "category": "Anti-caking Agent",
+    "description": "Used in small amounts to prevent clumping in food powders.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in food-grade regulated use."
+  },
+  "E570": {
+    "eno": "E570",
+    "chemical_name": "Stearic Acid",
+    "name": "Stearic Acid",
+    "category": "Emulsifier",
+    "description": "Helps blend ingredients in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E575": {
+    "eno": "E575",
+    "chemical_name": "Glucono Delta-Lactone",
+    "name": "GDL",
+    "category": "Acidity Regulator",
+    "description": "Adds mild acidity and helps preserve freshness.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E620": {
+    "eno": "E620",
+    "chemical_name": "Glutamic Acid",
+    "name": "Glutamic Acid",
+    "category": "Flavor Enhancer",
+    "description": "Enhances savory (umami) flavor in foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E621": {
+    "eno": "E621",
+    "chemical_name": "Monosodium Glutamate",
+    "name": "MSG",
+    "category": "Flavor Enhancer",
+    "description": "Boosts savory flavor in processed foods and snacks.",
+    "risk_level": "moderate",
+    "safety_notes": "Some individuals report sensitivity."
+  },
+  "E627": {
+    "eno": "E627",
+    "chemical_name": "Disodium Guanylate",
+    "name": "Disodium Guanylate",
+    "category": "Flavor Enhancer",
+    "description": "Enhances savory flavor; often used with MSG.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated amounts."
+  },
+  "E631": {
+    "eno": "E631",
+    "chemical_name": "Disodium Inosinate",
+    "name": "Disodium Inosinate",
+    "category": "Flavor Enhancer",
+    "description": "Boosts savory taste in instant noodles and snacks.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe."
+  },
+  "E900": {
+    "eno": "E900",
+    "chemical_name": "Dimethylpolysiloxane",
+    "name": "Dimethylpolysiloxane",
+    "category": "Anti-foaming Agent",
+    "description": "Prevents foam formation in frying oils and beverages.",
+    "risk_level": "low",
+    "safety_notes": "Safe in very small quantities."
+  },
+  "E901": {
+    "eno": "E901",
+    "chemical_name": "Beeswax",
+    "name": "Beeswax",
+    "category": "Glazing Agent",
+    "description": "Gives shiny coating to candies and fruits.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; not vegan."
+  },
+  "E903": {
+    "eno": "E903",
+    "chemical_name": "Carnauba Wax",
+    "name": "Carnauba Wax",
+    "category": "Glazing Agent",
+    "description": "Plant-based wax used to coat fruits and candies.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E904": {
+    "eno": "E904",
+    "chemical_name": "Shellac",
+    "name": "Shellac",
+    "category": "Glazing Agent",
+    "description": "Gives shiny coating to sweets and pills.",
+    "risk_level": "low",
+    "safety_notes": "Not vegan; safe."
+  },
+  "E938": {
+    "eno": "E938",
+    "chemical_name": "Argon",
+    "name": "Argon",
+    "category": "Packaging Gas",
+    "description": "Used to preserve freshness in packaged foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E941": {
+    "eno": "E941",
+    "chemical_name": "Nitrogen",
+    "name": "Nitrogen",
+    "category": "Packaging Gas",
+    "description": "Prevents spoilage by removing oxygen from packaging.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E948": {
+    "eno": "E948",
+    "chemical_name": "Oxygen",
+    "name": "Oxygen",
+    "category": "Packaging Gas",
+    "description": "Used in modified atmosphere packaging.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E950": {
+    "eno": "E950",
+    "chemical_name": "Acesulfame Potassium",
+    "name": "Acesulfame K",
+    "category": "Sweetener",
+    "description": "Zero-calorie artificial sweetener used in diet drinks.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe within daily limits."
+  },
+  "E951": {
+    "eno": "E951",
+    "chemical_name": "Aspartame",
+    "name": "Aspartame",
+    "category": "Sweetener",
+    "description": "Low-calorie artificial sweetener used in diet products.",
+    "risk_level": "moderate",
+    "safety_notes": "People with PKU must avoid."
+  },
+  "E952": {
+    "eno": "E952",
+    "chemical_name": "Cyclamic Acid",
+    "name": "Cyclamates",
+    "category": "Sweetener",
+    "description": "Artificial sweetener used in low-calorie foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated use; some countries restrict it."
+  },
+  "E954": {
+    "eno": "E954",
+    "chemical_name": "Saccharin",
+    "name": "Saccharin",
+    "category": "Sweetener",
+    "description": "Artificial sweetener used in sugar-free products.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated amounts."
+  },
+  "E955": {
+    "eno": "E955",
+    "chemical_name": "Sucralose",
+    "name": "Sucralose",
+    "category": "Sweetener",
+    "description": "High-intensity sweetener used in diet beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe."
+  },
+  "E960": {
+    "eno": "E960",
+    "chemical_name": "Steviol Glycosides",
+    "name": "Stevia",
+    "category": "Sweetener",
+    "description": "Plant-based sweetener with no calories.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E965": {
+    "eno": "E965",
+    "chemical_name": "Maltitol",
+    "name": "Maltitol",
+    "category": "Sweetener",
+    "description": "Sugar alcohol used in sugar-free chocolates.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause bloating in high amounts."
+  },
+  "E962": {
+    "eno": "E962",
+    "chemical_name": "Aspartame-Acesulfame Salt",
+    "name": "Aspartame-Acesulfame",
+    "category": "Sweetener",
+    "description": "A blend of two artificial sweeteners used in sugar-free drinks and desserts.",
+    "risk_level": "moderate",
+    "safety_notes": "People with PKU should avoid due to aspartame content."
+  },
+  "E966": {
+    "eno": "E966",
+    "chemical_name": "Lactitol",
+    "name": "Lactitol",
+    "category": "Sweetener",
+    "description": "A sugar alcohol used in sugar-free products. Adds mild sweetness.",
+    "risk_level": "moderate",
+    "safety_notes": "High amounts may cause bloating or laxative effect."
+  },
+  "E967": {
+    "eno": "E967",
+    "chemical_name": "Xylitol",
+    "name": "Xylitol",
+    "category": "Sweetener",
+    "description": "Sugar alcohol used in sugar-free gum and candy.",
+    "risk_level": "low",
+    "safety_notes": "Safe for humans; toxic to dogs."
+  },
+  "E968": {
+    "eno": "E968",
+    "chemical_name": "Erythritol",
+    "name": "Erythritol",
+    "category": "Sweetener",
+    "description": "Low-calorie sugar alcohol used in diet products.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; excessive intake may cause mild digestive discomfort."
+  },
+  "E999": {
+    "eno": "E999",
+    "chemical_name": "Quillaia Extract",
+    "name": "Quillaia Extract",
+    "category": "Foaming Agent",
+    "description": "Used to create foam in soft drinks and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated quantities."
+  },
+  "E1400": {
+    "eno": "E1400",
+    "chemical_name": "Dextrin",
+    "name": "Dextrin",
+    "category": "Modified Starch",
+    "description": "Used to improve texture and thickness in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1404": {
+    "eno": "E1404",
+    "chemical_name": "Oxidized Starch",
+    "name": "Oxidized Starch",
+    "category": "Modified Starch",
+    "description": "Improves texture and stability in sauces and soups.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1410": {
+    "eno": "E1410",
+    "chemical_name": "Monostarch Phosphate",
+    "name": "Monostarch Phosphate",
+    "category": "Modified Starch",
+    "description": "Enhances thickness and stability in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E1412": {
+    "eno": "E1412",
+    "chemical_name": "Distarch Phosphate",
+    "name": "Distarch Phosphate",
+    "category": "Modified Starch",
+    "description": "Used as thickener in sauces and instant foods.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E1422": {
+    "eno": "E1422",
+    "chemical_name": "Acetylated Distarch Adipate",
+    "name": "Acetylated Distarch Adipate",
+    "category": "Modified Starch",
+    "description": "Improves texture and freeze-thaw stability.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E1442": {
+    "eno": "E1442",
+    "chemical_name": "Hydroxypropyl Distarch Phosphate",
+    "name": "Hydroxypropyl Distarch Phosphate",
+    "category": "Modified Starch",
+    "description": "Used in processed foods for thickening and stability.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1450": {
+    "eno": "E1450",
+    "chemical_name": "Starch Sodium Octenyl Succinate",
+    "name": "Starch Sodium Octenyl Succinate",
+    "category": "Modified Starch",
+    "description": "Improves texture and emulsification.",
+    "risk_level": "low",
+    "safety_notes": "Safe."
+  },
+  "E1510": {
+    "eno": "E1510",
+    "chemical_name": "Ethanol",
+    "name": "Ethanol",
+    "category": "Carrier Solvent",
+    "description": "Used as solvent for flavor extracts and colorings.",
+    "risk_level": "moderate",
+    "safety_notes": "Present in very small amounts."
+  },
+  "E1520": {
+    "eno": "E1520",
+    "chemical_name": "Propylene Glycol",
+    "name": "Propylene Glycol",
+    "category": "Humectant",
+    "description": "Keeps foods moist and prevents drying.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in small quantities."
+  },
+  "E1521": {
+    "eno": "E1521",
+    "chemical_name": "Polyethylene Glycol",
+    "name": "Polyethylene Glycol",
+    "category": "Stabilizer",
+    "description": "Used to stabilize food additives and colorings.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated amounts."
+  },
+  "E160B": {
+    "eno": "E160B",
+    "chemical_name": "Annatto",
+    "name": "Annatto",
+    "category": "Color",
+    "description": "Natural yellow-orange coloring derived from seeds.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; rare allergies possible."
+  },
+  "E171": {
+    "eno": "E171",
+    "chemical_name": "Titanium Dioxide",
+    "name": "Titanium Dioxide",
+    "category": "Color",
+    "description": "White coloring used in candies and desserts.",
+    "risk_level": "high",
+    "safety_notes": "Banned in some regions due to safety concerns."
+  },
+  "E172": {
+    "eno": "E172",
+    "chemical_name": "Iron Oxides",
+    "name": "Iron Oxides",
+    "category": "Color",
+    "description": "Mineral-based coloring used in confectionery.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E173": {
+    "eno": "E173",
+    "chemical_name": "Aluminium",
+    "name": "Aluminium",
+    "category": "Color",
+    "description": "Used for decorative silver coatings on sweets.",
+    "risk_level": "moderate",
+    "safety_notes": "Limited usage allowed."
+  },
+  "E174": {
+    "eno": "E174",
+    "chemical_name": "Silver",
+    "name": "Silver",
+    "category": "Color",
+    "description": "Edible silver used for decorative purposes.",
+    "risk_level": "low",
+    "safety_notes": "Safe in small decorative amounts."
+  },
+  "E175": {
+    "eno": "E175",
+    "chemical_name": "Gold",
+    "name": "Gold",
+    "category": "Color",
+    "description": "Edible gold used in luxury desserts.",
+    "risk_level": "low",
+    "safety_notes": "Safe in decorative quantities."
+  },
+  "E103": {
+    "eno": "E103",
+    "chemical_name": "Alkanet, Alkannin",
+    "name": "Alkanet",
+    "category": "Color",
+    "description": "Natural red coloring derived from plant roots, used in some traditional foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Not widely used; verify local regulations and usage limits."
+  },
+  "E107": {
+    "eno": "E107",
+    "chemical_name": "Yellow 2G",
+    "name": "Yellow 2G",
+    "category": "Color",
+    "description": "Synthetic yellow dye used in some processed foods and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity in some individuals; regulations vary by region."
+  },
+  "E127": {
+    "eno": "E127",
+    "chemical_name": "Erythrosine",
+    "name": "Erythrosine",
+    "category": "Color",
+    "description": "Synthetic red dye used in candies and decorative icing.",
+    "risk_level": "moderate",
+    "safety_notes": "Some regions restrict usage; sensitive individuals may react."
+  },
+  "E131": {
+    "eno": "E131",
+    "chemical_name": "Patent Blue V",
+    "name": "Patent Blue V",
+    "category": "Color",
+    "description": "Blue dye used in beverages, sweets, and processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "May trigger sensitivity in some people."
+  },
+  "E132": {
+    "eno": "E132",
+    "chemical_name": "Indigotine",
+    "name": "Indigo Carmine",
+    "category": "Color",
+    "description": "Blue coloring used in sweets and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "Some individuals may experience sensitivity."
+  },
+  "E133": {
+    "eno": "E133",
+    "chemical_name": "Brilliant Blue FCF",
+    "name": "Brilliant Blue",
+    "category": "Color",
+    "description": "Synthetic blue dye found in candies and drinks.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause reactions in sensitive individuals."
+  },
+  "E141": {
+    "eno": "E141",
+    "chemical_name": "Copper chlorophyllins",
+    "name": "Copper Chlorophyllins",
+    "category": "Color",
+    "description": "Green coloring derived from chlorophyll with copper salts.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe in regulated amounts."
+  },
+  "E142": {
+    "eno": "E142",
+    "chemical_name": "Green S",
+    "name": "Green S",
+    "category": "Color",
+    "description": "Synthetic green dye used in sweets and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity; regulations vary."
+  },
+  "E151": {
+    "eno": "E151",
+    "chemical_name": "Brilliant Black BN",
+    "name": "Brilliant Black",
+    "category": "Color",
+    "description": "Black dye used in sauces and confectionery.",
+    "risk_level": "moderate",
+    "safety_notes": "Possible sensitivity; usage regulated."
+  },
+  "E153": {
+    "eno": "E153",
+    "chemical_name": "Vegetable Carbon",
+    "name": "Vegetable Carbon",
+    "category": "Color",
+    "description": "Black coloring from carbonized plant material.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; used in small amounts."
+  },
+  "E155": {
+    "eno": "E155",
+    "chemical_name": "Brown HT",
+    "name": "Brown HT",
+    "category": "Color",
+    "description": "Synthetic brown dye used in baked goods and sauces.",
+    "risk_level": "moderate",
+    "safety_notes": "Some regions restrict use; may cause sensitivity."
+  },
+  "E160C": {
+    "eno": "E160C",
+    "chemical_name": "Paprika extract",
+    "name": "Paprika Extract",
+    "category": "Color",
+    "description": "Natural red/orange coloring from paprika peppers.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; may irritate very sensitive stomachs."
+  },
+  "E160D": {
+    "eno": "E160D",
+    "chemical_name": "Lycopene",
+    "name": "Lycopene",
+    "category": "Color",
+    "description": "Natural red pigment found in tomatoes; used as coloring.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E161B": {
+    "eno": "E161B",
+    "chemical_name": "Lutein",
+    "name": "Lutein",
+    "category": "Color",
+    "description": "Natural yellow pigment used in supplements and foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E170": {
+    "eno": "E170",
+    "chemical_name": "Calcium carbonate",
+    "name": "Calcium Carbonate",
+    "category": "Color / Acidity Regulator",
+    "description": "White color and acidity control; also calcium source.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E201": {
+    "eno": "E201",
+    "chemical_name": "Sodium sorbate",
+    "name": "Sodium Sorbate",
+    "category": "Preservative",
+    "description": "Preservative that prevents mold and yeast growth.",
+    "risk_level": "moderate",
+    "safety_notes": "Safe in regulated amounts; may irritate sensitive individuals."
+  },
+  "E203": {
+    "eno": "E203",
+    "chemical_name": "Calcium sorbate",
+    "name": "Calcium Sorbate",
+    "category": "Preservative",
+    "description": "Prevents yeast and mold growth in packaged foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe in permitted limits."
+  },
+  "E212": {
+    "eno": "E212",
+    "chemical_name": "Potassium benzoate",
+    "name": "Potassium Benzoate",
+    "category": "Preservative",
+    "description": "Preservative used in acidic foods and beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "Sensitive individuals may react."
+  },
+  "E213": {
+    "eno": "E213",
+    "chemical_name": "Calcium benzoate",
+    "name": "Calcium Benzoate",
+    "category": "Preservative",
+    "description": "Preservative used in beverages and acidic foods.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity in some individuals."
+  },
+  "E214": {
+    "eno": "E214",
+    "chemical_name": "Ethyl p-hydroxybenzoate",
+    "name": "Ethylparaben",
+    "category": "Preservative",
+    "description": "Paraben preservative used to prevent microbial growth.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; some prefer to limit parabens."
+  },
+  "E215": {
+    "eno": "E215",
+    "chemical_name": "Sodium ethyl p-hydroxybenzoate",
+    "name": "Sodium Ethylparaben",
+    "category": "Preservative",
+    "description": "Salt form of ethylparaben, used as preservative.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; may cause sensitivity in rare cases."
+  },
+  "E216": {
+    "eno": "E216",
+    "chemical_name": "Propyl p-hydroxybenzoate",
+    "name": "Propylparaben",
+    "category": "Preservative",
+    "description": "Paraben preservative used in some processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; some consumers choose to avoid."
+  },
+  "E217": {
+    "eno": "E217",
+    "chemical_name": "Sodium propyl p-hydroxybenzoate",
+    "name": "Sodium Propylparaben",
+    "category": "Preservative",
+    "description": "Preservative to inhibit molds and bacteria.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; rare sensitivity possible."
+  },
+  "E218": {
+    "eno": "E218",
+    "chemical_name": "Methyl p-hydroxybenzoate",
+    "name": "Methylparaben",
+    "category": "Preservative",
+    "description": "Paraben preservative to prevent spoilage.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; some prefer limiting parabens."
+  },
+  "E219": {
+    "eno": "E219",
+    "chemical_name": "Sodium methyl p-hydroxybenzoate",
+    "name": "Sodium Methylparaben",
+    "category": "Preservative",
+    "description": "Salt form of methylparaben, used as preservative.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; rare sensitivity possible."
+  },
+  "E221": {
+    "eno": "E221",
+    "chemical_name": "Sodium sulfite",
+    "name": "Sodium Sulfite",
+    "category": "Preservative",
+    "description": "Prevents oxidation and browning in processed foods.",
+    "risk_level": "high",
+    "safety_notes": "Sulfite-sensitive individuals (asthma) may react."
+  },
+  "E222": {
+    "eno": "E222",
+    "chemical_name": "Sodium hydrogen sulfite",
+    "name": "Sodium Bisulfite",
+    "category": "Preservative",
+    "description": "Used to prevent oxidation in foods and drinks.",
+    "risk_level": "high",
+    "safety_notes": "May trigger sulfite sensitivity."
+  },
+  "E223": {
+    "eno": "E223",
+    "chemical_name": "Sodium metabisulfite",
+    "name": "Sodium Metabisulfite",
+    "category": "Preservative",
+    "description": "Preservative used in dried fruits and beverages.",
+    "risk_level": "high",
+    "safety_notes": "Can trigger asthma symptoms in sensitive people."
+  },
+  "E224": {
+    "eno": "E224",
+    "chemical_name": "Potassium metabisulfite",
+    "name": "Potassium Metabisulfite",
+    "category": "Preservative",
+    "description": "Preservative and antioxidant used in wines and dried foods.",
+    "risk_level": "high",
+    "safety_notes": "Sulfite sensitivity risk."
+  },
+  "E225": {
+    "eno": "E225",
+    "chemical_name": "Potassium sulfite",
+    "name": "Potassium Sulfite",
+    "category": "Preservative",
+    "description": "Prevents spoilage and oxidation in foods.",
+    "risk_level": "high",
+    "safety_notes": "Avoid if sulfite-sensitive."
+  },
+  "E226": {
+    "eno": "E226",
+    "chemical_name": "Calcium sulfite",
+    "name": "Calcium Sulfite",
+    "category": "Preservative",
+    "description": "Used in some processed foods to prevent oxidation.",
+    "risk_level": "high",
+    "safety_notes": "May trigger sulfite sensitivity."
+  },
+  "E227": {
+    "eno": "E227",
+    "chemical_name": "Calcium hydrogen sulfite",
+    "name": "Calcium Bisulfite",
+    "category": "Preservative",
+    "description": "Preservative used to prevent oxidation.",
+    "risk_level": "high",
+    "safety_notes": "Avoid if sulfite-sensitive."
+  },
+  "E228": {
+    "eno": "E228",
+    "chemical_name": "Potassium hydrogen sulfite",
+    "name": "Potassium Bisulfite",
+    "category": "Preservative",
+    "description": "Preservative used in beverages and processed foods.",
+    "risk_level": "high",
+    "safety_notes": "Sulfite sensitivity possible."
+  },
+  "E230": {
+    "eno": "E230",
+    "chemical_name": "Biphenyl",
+    "name": "Biphenyl",
+    "category": "Preservative",
+    "description": "Surface preservative used mainly on citrus fruit peels.",
+    "risk_level": "moderate",
+    "safety_notes": "Typically not consumed in large amounts; wash peels."
+  },
+  "E231": {
+    "eno": "E231",
+    "chemical_name": "Orthophenylphenol",
+    "name": "Orthophenylphenol",
+    "category": "Preservative",
+    "description": "Surface preservative for fruits; helps prevent mold growth.",
+    "risk_level": "moderate",
+    "safety_notes": "Wash fruit surfaces; peel when possible."
+  },
+  "E232": {
+    "eno": "E232",
+    "chemical_name": "Sodium orthophenylphenol",
+    "name": "Sodium Orthophenylphenol",
+    "category": "Preservative",
+    "description": "Salt form of surface preservative for fruits.",
+    "risk_level": "moderate",
+    "safety_notes": "Wash fruit; avoid overexposure."
+  },
+  "E234": {
+    "eno": "E234",
+    "chemical_name": "Nisin",
+    "name": "Nisin",
+    "category": "Preservative",
+    "description": "Natural antimicrobial used in cheese and dairy to prevent spoilage.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E235": {
+    "eno": "E235",
+    "chemical_name": "Natamycin",
+    "name": "Natamycin",
+    "category": "Preservative",
+    "description": "Antifungal preservative used on cheese and cured meats surfaces.",
+    "risk_level": "moderate",
+    "safety_notes": "Usually used on surface; regulated limits apply."
+  },
+  "E239": {
+    "eno": "E239",
+    "chemical_name": "Hexamethylenetetramine",
+    "name": "Hexamine",
+    "category": "Preservative",
+    "description": "Preservative used in some cheeses and fish products.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; avoid frequent intake if concerned."
+  },
+  "E242": {
+    "eno": "E242",
+    "chemical_name": "Dimethyl dicarbonate",
+    "name": "DMDC",
+    "category": "Preservative",
+    "description": "Used to sterilize beverages like juices and soft drinks.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in tiny amounts; regulated."
+  },
+  "E249": {
+    "eno": "E249",
+    "chemical_name": "Potassium nitrite",
+    "name": "Potassium Nitrite",
+    "category": "Preservative",
+    "description": "Used in processed meats to prevent bacterial growth.",
+    "risk_level": "high",
+    "safety_notes": "Limit frequent processed meat consumption."
+  },
+  "E251": {
+    "eno": "E251",
+    "chemical_name": "Sodium nitrate",
+    "name": "Sodium Nitrate",
+    "category": "Preservative",
+    "description": "Used in cured meats; can convert to nitrites in the body.",
+    "risk_level": "high",
+    "safety_notes": "Frequent intake discouraged."
+  },
+  "E252": {
+    "eno": "E252",
+    "chemical_name": "Potassium nitrate",
+    "name": "Potassium Nitrate",
+    "category": "Preservative",
+    "description": "Used in cured meats and some cheeses.",
+    "risk_level": "high",
+    "safety_notes": "Limit frequent intake of cured meats."
+  },
+  "E260": {
+    "eno": "E260",
+    "chemical_name": "Acetic acid",
+    "name": "Acetic Acid",
+    "category": "Acidity Regulator",
+    "description": "Main acid in vinegar; controls acidity and flavor.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E261": {
+    "eno": "E261",
+    "chemical_name": "Potassium acetate",
+    "name": "Potassium Acetate",
+    "category": "Acidity Regulator",
+    "description": "Acidity regulator used in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E262": {
+    "eno": "E262",
+    "chemical_name": "Sodium acetates",
+    "name": "Sodium Acetates",
+    "category": "Acidity Regulator",
+    "description": "Acidity control and flavoring; used in chips and snacks.",
+    "risk_level": "moderate",
+    "safety_notes": "High-sodium foods may not suit hypertension profiles."
+  },
+  "E263": {
+    "eno": "E263",
+    "chemical_name": "Calcium acetate",
+    "name": "Calcium Acetate",
+    "category": "Acidity Regulator",
+    "description": "Controls acidity and stabilizes food products.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E270": {
+    "eno": "E270",
+    "chemical_name": "Lactic acid",
+    "name": "Lactic Acid",
+    "category": "Acidity Regulator",
+    "description": "Acid used in dairy, pickles, and fermented foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E280": {
+    "eno": "E280",
+    "chemical_name": "Propionic acid",
+    "name": "Propionic Acid",
+    "category": "Preservative",
+    "description": "Prevents mold growth in bread and bakery products.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe; some may notice sensitivity."
+  },
+  "E281": {
+    "eno": "E281",
+    "chemical_name": "Sodium propionate",
+    "name": "Sodium Propionate",
+    "category": "Preservative",
+    "description": "Mold inhibitor commonly used in bread and baked goods.",
+    "risk_level": "moderate",
+    "safety_notes": "May affect sensitive individuals; regulated limits apply."
+  },
+  "E282": {
+    "eno": "E282",
+    "chemical_name": "Calcium propionate",
+    "name": "Calcium Propionate",
+    "category": "Preservative",
+    "description": "Prevents mold in bread, buns, and bakery items.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe; occasional sensitivity reported."
+  },
+  "E283": {
+    "eno": "E283",
+    "chemical_name": "Potassium propionate",
+    "name": "Potassium Propionate",
+    "category": "Preservative",
+    "description": "Preservative used to inhibit mold growth.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe in regulated amounts."
+  },
+  "E290": {
+    "eno": "E290",
+    "chemical_name": "Carbon dioxide",
+    "name": "Carbon Dioxide",
+    "category": "Packaging Gas",
+    "description": "Used for carbonation and packaging atmosphere control.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E296": {
+    "eno": "E296",
+    "chemical_name": "Malic acid",
+    "name": "Malic Acid",
+    "category": "Acidity Regulator",
+    "description": "Adds sour taste (common in candies and drinks).",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E301": {
+    "eno": "E301",
+    "chemical_name": "Sodium ascorbate",
+    "name": "Sodium Ascorbate",
+    "category": "Antioxidant",
+    "description": "Vitamin C salt; prevents oxidation in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E302": {
+    "eno": "E302",
+    "chemical_name": "Calcium ascorbate",
+    "name": "Calcium Ascorbate",
+    "category": "Antioxidant",
+    "description": "Antioxidant form of vitamin C; helps preserve freshness.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E304": {
+    "eno": "E304",
+    "chemical_name": "Fatty acid esters of ascorbic acid",
+    "name": "Ascorbyl Palmitate",
+    "category": "Antioxidant",
+    "description": "Fat-soluble antioxidant used in oils and fatty foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E306": {
+    "eno": "E306",
+    "chemical_name": "Tocopherol-rich extract",
+    "name": "Vitamin E Extract",
+    "category": "Antioxidant",
+    "description": "Natural vitamin E used to prevent oxidation in oils.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E307": {
+    "eno": "E307",
+    "chemical_name": "Alpha-tocopherol",
+    "name": "Alpha Tocopherol",
+    "category": "Antioxidant",
+    "description": "Vitamin E antioxidant used in fats and oils.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E308": {
+    "eno": "E308",
+    "chemical_name": "Gamma-tocopherol",
+    "name": "Gamma Tocopherol",
+    "category": "Antioxidant",
+    "description": "Vitamin E form used as antioxidant in oils.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E309": {
+    "eno": "E309",
+    "chemical_name": "Delta-tocopherol",
+    "name": "Delta Tocopherol",
+    "category": "Antioxidant",
+    "description": "Vitamin E form used to protect fats from oxidation.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E310": {
+    "eno": "E310",
+    "chemical_name": "Propyl gallate",
+    "name": "Propyl Gallate",
+    "category": "Antioxidant",
+    "description": "Prevents fats and oils from becoming rancid.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause sensitivity in some; regulated use."
+  },
+  "E311": {
+    "eno": "E311",
+    "chemical_name": "Octyl gallate",
+    "name": "Octyl Gallate",
+    "category": "Antioxidant",
+    "description": "Antioxidant used in fats/oils to prevent oxidation.",
+    "risk_level": "moderate",
+    "safety_notes": "Possible sensitivity; regulated."
+  },
+  "E312": {
+    "eno": "E312",
+    "chemical_name": "Dodecyl gallate",
+    "name": "Dodecyl Gallate",
+    "category": "Antioxidant",
+    "description": "Antioxidant used to protect fats from rancidity.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; avoid excessive intake."
+  },
+  "E315": {
+    "eno": "E315",
+    "chemical_name": "Erythorbic acid",
+    "name": "Erythorbic Acid",
+    "category": "Antioxidant",
+    "description": "Antioxidant similar to vitamin C used in meats and beverages.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E316": {
+    "eno": "E316",
+    "chemical_name": "Sodium erythorbate",
+    "name": "Sodium Erythorbate",
+    "category": "Antioxidant",
+    "description": "Prevents oxidation and preserves color in processed meats.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E319": {
+    "eno": "E319",
+    "chemical_name": "Tertiary-butylhydroquinone",
+    "name": "TBHQ",
+    "category": "Antioxidant",
+    "description": "Prevents rancidity in fats used in fried snacks and instant foods.",
+    "risk_level": "moderate",
+    "safety_notes": "Limit frequent ultra-processed snack consumption."
+  },
+  "E320": {
+    "eno": "E320",
+    "chemical_name": "Butylated hydroxyanisole",
+    "name": "BHA",
+    "category": "Antioxidant",
+    "description": "Antioxidant that prevents fats from spoiling in processed foods.",
+    "risk_level": "high",
+    "safety_notes": "Some consumers prefer to limit; regulated limits apply."
+  },
+  "E321": {
+    "eno": "E321",
+    "chemical_name": "Butylated hydroxytoluene",
+    "name": "BHT",
+    "category": "Antioxidant",
+    "description": "Prevents oxidation in oils and cereals.",
+    "risk_level": "high",
+    "safety_notes": "Some prefer to limit; regulated limits apply."
+  },
+  "E401A": {
+    "eno": "E401A",
+    "chemical_name": "Alginates (general)",
+    "name": "Alginates",
+    "category": "Thickener",
+    "description": "Seaweed-based thickener used to improve texture.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E413": {
+    "eno": "E413",
+    "chemical_name": "Tragacanth gum",
+    "name": "Tragacanth",
+    "category": "Thickener",
+    "description": "Natural plant gum used as thickener and stabilizer.",
+    "risk_level": "low",
+    "safety_notes": "Safe; may cause mild digestive discomfort in large amounts."
+  },
+  "E417": {
+    "eno": "E417",
+    "chemical_name": "Tara gum",
+    "name": "Tara Gum",
+    "category": "Thickener",
+    "description": "Plant-based thickener used in dairy alternatives and sauces.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E433": {
+    "eno": "E433",
+    "chemical_name": "Polysorbate 80",
+    "name": "Polysorbate 80",
+    "category": "Emulsifier",
+    "description": "Helps mix oil and water in ice creams and sauces.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe; some sensitive individuals may avoid."
+  },
+  "E434": {
+    "eno": "E434",
+    "chemical_name": "Polysorbate 40",
+    "name": "Polysorbate 40",
+    "category": "Emulsifier",
+    "description": "Emulsifier used in desserts and bakery fillings.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe in regulated amounts."
+  },
+  "E435": {
+    "eno": "E435",
+    "chemical_name": "Polysorbate 60",
+    "name": "Polysorbate 60",
+    "category": "Emulsifier",
+    "description": "Emulsifier used to stabilize whipped toppings and baked goods.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe; avoid excessive processed foods."
+  },
+  "E436": {
+    "eno": "E436",
+    "chemical_name": "Polysorbate 65",
+    "name": "Polysorbate 65",
+    "category": "Emulsifier",
+    "description": "Emulsifier used in fats, oils, and bakery products.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated use; generally safe."
+  },
+  "E441": {
+    "eno": "E441",
+    "chemical_name": "Gelatin",
+    "name": "Gelatin",
+    "category": "Gelling Agent",
+    "description": "Animal-derived gelling agent used in gummies and desserts.",
+    "risk_level": "low",
+    "safety_notes": "Not vegetarian/vegan; generally safe."
+  },
+  "E442": {
+    "eno": "E442",
+    "chemical_name": "Ammonium phosphatides",
+    "name": "Ammonium Phosphatides",
+    "category": "Emulsifier",
+    "description": "Emulsifier used in chocolate and cocoa products.",
+    "risk_level": "moderate",
+    "safety_notes": "Generally safe in regulated amounts."
+  },
+  "E444": {
+    "eno": "E444",
+    "chemical_name": "Sucrose acetate isobutyrate",
+    "name": "SAIB",
+    "category": "Stabilizer",
+    "description": "Stabilizes citrus flavor oils in soft drinks.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; generally safe."
+  },
+  "E445": {
+    "eno": "E445",
+    "chemical_name": "Glycerol esters of wood rosin",
+    "name": "Glycerol Esters of Wood Rosin",
+    "category": "Stabilizer",
+    "description": "Keeps flavor oils evenly mixed in beverages.",
+    "risk_level": "moderate",
+    "safety_notes": "Regulated; generally safe."
+  },
+  "E462": {
+    "eno": "E462",
+    "chemical_name": "Ethyl cellulose",
+    "name": "Ethyl Cellulose",
+    "category": "Thickener",
+    "description": "Texture stabilizer used in some processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E463": {
+    "eno": "E463",
+    "chemical_name": "Hydroxypropyl cellulose",
+    "name": "Hydroxypropyl Cellulose",
+    "category": "Thickener",
+    "description": "Stabilizer that improves texture in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E464": {
+    "eno": "E464",
+    "chemical_name": "Hydroxypropyl methylcellulose",
+    "name": "HPMC",
+    "category": "Thickener",
+    "description": "Used in gluten-free baking and sauces for texture.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; may cause bloating in large amounts."
+  },
+  "E465": {
+    "eno": "E465",
+    "chemical_name": "Methyl ethyl cellulose",
+    "name": "Methyl Ethyl Cellulose",
+    "category": "Thickener",
+    "description": "Texture stabilizer used in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E466": {
+    "eno": "E466",
+    "chemical_name": "Carboxymethyl cellulose",
+    "name": "CMC",
+    "category": "Thickener",
+    "description": "Common thickener used in sauces, dairy, and baked goods.",
+    "risk_level": "moderate",
+    "safety_notes": "Some sensitive individuals report digestive discomfort."
+  },
+  "E469": {
+    "eno": "E469",
+    "chemical_name": "Enzymatically hydrolyzed carboxymethyl cellulose",
+    "name": "Modified CMC",
+    "category": "Thickener",
+    "description": "Modified thickener used to improve stability in processed foods.",
+    "risk_level": "moderate",
+    "safety_notes": "May cause mild digestive discomfort in sensitive individuals."
+  },
+  "E481": {
+    "eno": "E481",
+    "chemical_name": "Sodium stearoyl lactylate",
+    "name": "SSL",
+    "category": "Emulsifier",
+    "description": "Improves texture and shelf life in bread and baked goods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E482": {
+    "eno": "E482",
+    "chemical_name": "Calcium stearoyl lactylate",
+    "name": "Calcium Stearoyl Lactylate",
+    "category": "Emulsifier",
+    "description": "Dough conditioner used in bakery products.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E491": {
+    "eno": "E491",
+    "chemical_name": "Sorbitan monostearate",
+    "name": "Sorbitan Monostearate",
+    "category": "Emulsifier",
+    "description": "Helps stabilize emulsions in desserts and baked goods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E492": {
+    "eno": "E492",
+    "chemical_name": "Sorbitan tristearate",
+    "name": "Sorbitan Tristearate",
+    "category": "Emulsifier",
+    "description": "Emulsifier used in confectionery and desserts.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E493": {
+    "eno": "E493",
+    "chemical_name": "Sorbitan monolaurate",
+    "name": "Sorbitan Monolaurate",
+    "category": "Emulsifier",
+    "description": "Emulsifier used in baked goods and creams.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E494": {
+    "eno": "E494",
+    "chemical_name": "Sorbitan monooleate",
+    "name": "Sorbitan Monooleate",
+    "category": "Emulsifier",
+    "description": "Emulsifier used to stabilize mixes and sauces.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E495": {
+    "eno": "E495",
+    "chemical_name": "Sorbitan monopalmitate",
+    "name": "Sorbitan Monopalmitate",
+    "category": "Emulsifier",
+    "description": "Stabilizes processed foods and confectionery.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E508": {
+    "eno": "E508",
+    "chemical_name": "Potassium chloride",
+    "name": "Potassium Chloride",
+    "category": "Salt Substitute",
+    "description": "Used as salt substitute to reduce sodium in foods.",
+    "risk_level": "moderate",
+    "safety_notes": "People with kidney issues should monitor potassium intake."
+  },
+  "E535": {
+    "eno": "E535",
+    "chemical_name": "Sodium ferrocyanide",
+    "name": "Sodium Ferrocyanide",
+    "category": "Anti-caking Agent",
+    "description": "Prevents salt and spices from clumping.",
+    "risk_level": "low",
+    "safety_notes": "Used in tiny amounts; generally safe."
+  },
+  "E536": {
+    "eno": "E536",
+    "chemical_name": "Potassium ferrocyanide",
+    "name": "Potassium Ferrocyanide",
+    "category": "Anti-caking Agent",
+    "description": "Anti-caking agent mainly used in table salt.",
+    "risk_level": "low",
+    "safety_notes": "Used in tiny amounts; generally safe."
+  },
+  "E538": {
+    "eno": "E538",
+    "chemical_name": "Calcium ferrocyanide",
+    "name": "Calcium Ferrocyanide",
+    "category": "Anti-caking Agent",
+    "description": "Prevents clumping in salt and powdered ingredients.",
+    "risk_level": "low",
+    "safety_notes": "Used in tiny amounts; generally safe."
+  },
+  "E900A": {
+    "eno": "E900A",
+    "chemical_name": "Silicone antifoam (general)",
+    "name": "Antifoam (Silicone)",
+    "category": "Anti-foaming Agent",
+    "description": "Prevents foam during manufacturing of beverages and frying oils.",
+    "risk_level": "low",
+    "safety_notes": "Used in very small amounts; generally safe."
+  },
+  "E907": {
+    "eno": "E907",
+    "chemical_name": "Hydrogenated poly-1-decene",
+    "name": "Microcrystalline Wax Substitute",
+    "category": "Glazing Agent",
+    "description": "Adds shine and protective coating to candies and fruits.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in small amounts; avoid excessive candy intake."
+  },
+  "E912": {
+    "eno": "E912",
+    "chemical_name": "Montanic acid esters",
+    "name": "Montan Wax",
+    "category": "Glazing Agent",
+    "description": "Coating agent used to glaze some confectionery.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in small quantities; regulated."
+  },
+  "E913": {
+    "eno": "E913",
+    "chemical_name": "Lanolin",
+    "name": "Lanolin",
+    "category": "Glazing Agent",
+    "description": "Waxy coating from wool used in small amounts as glaze.",
+    "risk_level": "moderate",
+    "safety_notes": "Not vegan; rare sensitivity possible."
+  },
+  "E957": {
+    "eno": "E957",
+    "chemical_name": "Thaumatin",
+    "name": "Thaumatin",
+    "category": "Sweetener / Flavor Modifier",
+    "description": "Natural protein sweetener used in very small amounts.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E969": {
+    "eno": "E969",
+    "chemical_name": "Advantame",
+    "name": "Advantame",
+    "category": "Sweetener",
+    "description": "High-intensity sweetener used in sugar-free products.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in tiny amounts; regulated daily limits apply."
+  },
+  "E970": {
+    "eno": "E970",
+    "chemical_name": "Xylitol (alt classification)",
+    "name": "Xylitol (alt)",
+    "category": "Sweetener",
+    "description": "Sugar alcohol sweetener used in gum and mints.",
+    "risk_level": "low",
+    "safety_notes": "May cause digestive discomfort if overconsumed."
+  },
+  "E1200": {
+    "eno": "E1200",
+    "chemical_name": "Polydextrose",
+    "name": "Polydextrose",
+    "category": "Bulking Agent",
+    "description": "Adds fiber-like bulk to low-sugar foods.",
+    "risk_level": "moderate",
+    "safety_notes": "High intake may cause gas/bloating."
+  },
+  "E1201": {
+    "eno": "E1201",
+    "chemical_name": "Polyvinylpyrrolidone",
+    "name": "PVP",
+    "category": "Stabilizer",
+    "description": "Stabilizer used in some beverages and supplements.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in small amounts; regulated."
+  },
+  "E1202": {
+    "eno": "E1202",
+    "chemical_name": "Polyvinylpolypyrrolidone",
+    "name": "PVPP",
+    "category": "Stabilizer",
+    "description": "Used to clarify beverages and improve stability.",
+    "risk_level": "moderate",
+    "safety_notes": "Used in processing; minimal final residues."
+  },
+  "E1401": {
+    "eno": "E1401",
+    "chemical_name": "Acid-treated starch",
+    "name": "Acid-treated Starch",
+    "category": "Modified Starch",
+    "description": "Modified starch used to thicken and stabilize foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1402": {
+    "eno": "E1402",
+    "chemical_name": "Alkaline-treated starch",
+    "name": "Alkaline-treated Starch",
+    "category": "Modified Starch",
+    "description": "Improves texture and stability in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1403": {
+    "eno": "E1403",
+    "chemical_name": "Bleached starch",
+    "name": "Bleached Starch",
+    "category": "Modified Starch",
+    "description": "Modified starch used for improved appearance and texture.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1411": {
+    "eno": "E1411",
+    "chemical_name": "Phosphated distarch glycerol",
+    "name": "Phosphated Distarch Glycerol",
+    "category": "Modified Starch",
+    "description": "Stabilizer used in sauces and processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1413": {
+    "eno": "E1413",
+    "chemical_name": "Phosphated distarch phosphate",
+    "name": "Phosphated Distarch Phosphate",
+    "category": "Modified Starch",
+    "description": "Thickener for processed foods and soups.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1414": {
+    "eno": "E1414",
+    "chemical_name": "Acetylated distarch phosphate",
+    "name": "Acetylated Distarch Phosphate",
+    "category": "Modified Starch",
+    "description": "Improves freeze-thaw stability in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1420": {
+    "eno": "E1420",
+    "chemical_name": "Acetylated starch",
+    "name": "Acetylated Starch",
+    "category": "Modified Starch",
+    "description": "Stabilizer and thickener used in sauces and snacks.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1421": {
+    "eno": "E1421",
+    "chemical_name": "Starch acetate",
+    "name": "Starch Acetate",
+    "category": "Modified Starch",
+    "description": "Improves texture and stability in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1423": {
+    "eno": "E1423",
+    "chemical_name": "Acetylated distarch glycerol",
+    "name": "Acetylated Distarch Glycerol",
+    "category": "Modified Starch",
+    "description": "Thickener used in sauces and processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1430": {
+    "eno": "E1430",
+    "chemical_name": "Starch sodium octenyl succinate",
+    "name": "Starch OSA",
+    "category": "Modified Starch",
+    "description": "Improves emulsification and stability in processed foods.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1451": {
+    "eno": "E1451",
+    "chemical_name": "Acetylated oxidized starch",
+    "name": "Acetylated Oxidized Starch",
+    "category": "Modified Starch",
+    "description": "Used for thickening and stabilizing sauces and soups.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1100": {
+    "eno": "E1100",
+    "chemical_name": "Amylase",
+    "name": "Amylase",
+    "category": "Enzyme",
+    "description": "Enzyme used in baking to improve dough texture and rise.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; enzymes are usually inactive in final food."
+  },
+  "E1101": {
+    "eno": "E1101",
+    "chemical_name": "Protease",
+    "name": "Protease",
+    "category": "Enzyme",
+    "description": "Enzyme used to modify proteins and improve processing.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe; minimal active enzyme remains."
+  },
+  "E1103": {
+    "eno": "E1103",
+    "chemical_name": "Invertase",
+    "name": "Invertase",
+    "category": "Enzyme",
+    "description": "Used in confectionery to soften fondant and fillings.",
+    "risk_level": "low",
+    "safety_notes": "Generally safe."
+  },
+  "E1105": {
+    "eno": "E1105",
+    "chemical_name": "Lysozyme",
+    "name": "Lysozyme",
+    "category": "Preservative / Enzyme",
+    "description": "Enzyme preservative often derived from egg; used in cheeses and wines.",
+    "risk_level": "moderate",
+    "safety_notes": "Egg-allergic individuals should be cautious if declared."
+  }
+}
